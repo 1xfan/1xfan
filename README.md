@@ -1,5 +1,12 @@
 # Jacob Martinez (@1xfan)
 Personal account for school/hackathons.
+
+### random facts about myself:
+* My favorite video game of all time is Rain World.
+* I run cross country and do Robotics.
+* I'm a junior at Lane Tech College Prep.
+* I do hackathons in my free time.
+
 ### Languages
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -11,6 +18,8 @@ Personal account for school/hackathons.
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
 </div>
 <br>
 
