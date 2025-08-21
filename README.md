@@ -6,6 +6,7 @@ Personal account for school/hackathons.
 * I run cross country and do Robotics.
 * I'm a junior at Lane Tech College Prep.
 * I do hackathons in my free time.
+* I'm the #1 Vercel shill. Free hosting with backend support (send me my check Vercel).
 
 ### Languages
 <div align="left">
