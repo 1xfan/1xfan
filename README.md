@@ -5,6 +5,7 @@ Personal account for school/hackathons.
 * My favorite video game of all time is Rain World.
 * I run cross country and do Robotics.
 * I'm a junior at Lane Tech College Prep.
+* I'm a programmer on FRC Team 4863.
 * I do hackathons in my free time.
 * I'm the #1 Vercel shill. Free hosting with backend support (send me my check Vercel).
 
