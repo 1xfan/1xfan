@@ -1,13 +1,13 @@
 # Jacob Martinez (@1xfan)
 Personal account for school/hackathons.
 
-### random facts about myself:
-* My favorite video game of all time is Rain World.
-* I run cross country and do Robotics.
+### About Me:
 * I'm a junior at Lane Tech College Prep.
-* I'm a programmer on FRC Team 4863.
-* I do hackathons in my free time.
-* I'm the #1 Vercel shill. Free hosting with backend support (send me my check Vercel).
+* I'm a captain of FRC Team 4863.
+* I occasionally do hackathons in my free time.
+* I run cross country.
+* My favorite video game of all time is Rain World.
+* I'm the #1 Vercel shill (send me my check Vercel).
 
 ### Languages
 <div align="left">
