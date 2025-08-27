@@ -24,5 +24,3 @@ Personal account for school/hackathons.
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
 </div>
 <br>
-
-> *Profile picture from Rain World.*
