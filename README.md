@@ -7,7 +7,7 @@ Personal account for school/hackathons.
 * I occasionally do hackathons in my free time.
 * I run cross country.
 * My favorite video game of all time is Rain World.
-* I'm the #1 Vercel shill (send me my check Vercel).
+* I always host on Vercel.
 
 ### Languages
 <div align="left">
